@@ -15,4 +15,6 @@ export default function Main() {
     )
 }
 
+// gh
+
 AppRegistry.registerComponent(appName, () => Main);
